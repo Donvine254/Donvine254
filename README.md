@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Donvine254
+- 👋 Hi, I’m Donvine
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning javascript,ruby and ruby on rails
 - 💞️ I’m looking to collaborate on creating unique web applications
